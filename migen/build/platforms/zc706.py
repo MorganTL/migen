@@ -68,7 +68,7 @@ _connectors = [
     ("HPC", {
         # ZC706 User Guide p. 66 col. 1
         "DP1_M2C_P": "AJ8",
-        "DP2_M2C_N": "AJ7",
+        "DP1_M2C_N": "AJ7",
         "DP2_M2C_P": "AG8",
         "DP2_M2C_N": "AG7",
         "DP3_M2C_P": "AE8",
